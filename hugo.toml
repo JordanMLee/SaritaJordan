@@ -1,0 +1,5 @@
+baseURL = 'https://saritaandjordan.wedding/'
+languageCode = 'en-us'
+title = 'Sarita & Jordan'
+theme = 'ananke'
+sectionPagesMenu = 'main'
