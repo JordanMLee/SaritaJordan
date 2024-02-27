@@ -5,9 +5,10 @@ draft = false
 +++
 Registry links. Thank you!
 
-Williams Sonoma [registry] 
-(https://www.williams-sonoma.com/registry/ntdd8crtrn/registry-list.html)
+Williams Sonoma [registry](https://www.williams-sonoma.com/registry/ntdd8crtrn/registry-list.html)
 
 
-West Elm [registry] 
-(https://www.williams-sonoma.com/registry/q98hlnrqqd/registry-list.html)
+West Elm [registry](https://www.williams-sonoma.com/registry/q98hlnrqqd/registry-list.html)
+
+
+House Maintenance/Honeymoon Fund [Venmo](https://venmo.com/u/Jordan-Lee-18)

@@ -2,9 +2,9 @@
 title: 
 featured_image: '/images/entrance.png'
 ---
-## We're getting married in Tuscany! And we'd love for you to be there! ##
+## We're getting married in Tuscany! And we'd love for you to be there!  Click -> [RSVP](https://forms.gle/TibamL8eeAUwUi7i9) ##
 
-Please join us at Villa Le Bolli on Saturday, October 26th.
+Please join us at Villa Le Bolli on Saturday, October 26th 2024.
 
 Podere Bolli, 63, 53030 Radicondoli SI, Italy
 
